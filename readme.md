@@ -7,7 +7,7 @@ Full-stack developer
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [webdevbyakash@gmail.com](mailto:webdevbyakash@gmail.com)
 * 🚀  I'm currently working at [TVO](http://tvolearn.com/collections/courses)
-* 🧠  I'm learning Next JS, AWS, GraphQL, Redux
+* 🧠  I'm learning AWS
 
 ### Skills
 
