@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack developer
 --------------------
 
-* 🌍  I'm based in Toronto, Canada
+* 🌍  I'm based in Markham, ON, Canada
 * ✉️  You can contact me at [webdevbyakash@gmail.com](mailto:webdevbyakash@gmail.com)
 * 🚀  I'm currently working at [TVO](http://tvolearn.com/collections/courses)
-* 🧠  I'm learning AWS
+* 🧠  AI/ML integration in Front-end technologies
 
 ### Skills
 
